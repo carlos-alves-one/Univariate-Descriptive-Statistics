@@ -1,8 +1,8 @@
 
-# Descriptive Statistics 1
+# Descriptive Statistics
 
 ## Description
-An introductory guide to univariate descriptive statistics, featuring practical exercises and unit tests to ensure understanding and correctness of the statistical methods applied. This notebook is designed for educational purposes, helping learners grasp the basics of statistical analysis through hands-on practice.
+A comprehensive manual on univariate descriptive statistics, including hands-on exercises and assessments to guarantee comprehension and accuracy in implementing statistical techniques. This notebook is tailored explicitly for instructional purposes, aiming to assist learners in comprehending the fundamental principles of statistical analysis by engaging them in practical exercises.
 
 ## Features
 - Interactive exercises with unit tests for self-assessment.
